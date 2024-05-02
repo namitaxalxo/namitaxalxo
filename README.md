@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @namitaxalxo
 - 👀 I’m interested in AI...
-- 🌱 I’m currently learning MCA
+- 🌱 I’m complited my masters in computer science(MCA)
 - 💞️ I’m looking to collaborate on CODING
 - 📫 How to reach me with using my git hub id
 
